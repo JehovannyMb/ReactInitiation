@@ -6,12 +6,11 @@ import Cps1 from './Composants/Cps1'
 
 function App() {
   // const [count, setCount] = useState(0)
-const age = 80
 const Nom = 'Jehovanny Mbenga'
 const ObjetUtilise = 'props'
   return (
     <>
-    <Cps1 age={age} Nom={Nom} ObjetUtilise={ObjetUtilise} />
+    <Cps1 Nom={Nom} ObjetUtilise={ObjetUtilise} />
   <header>
     <p class="nav">
       <span class="title">Répertoire des contacts</span>

@@ -4,3 +4,13 @@
 p{
     font-weight: bold;
 }
+
+.btn_cps1{
+    background-color: red;
+    color: white;
+    width: 5em;
+  }
+  .btn_cps1 :hover{
+    background-color: white;
+    color: red;
+  }
