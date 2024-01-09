@@ -11,6 +11,11 @@ const ObjetUtilise = 'props'
   return (
     <>
     <Cps1 Nom={Nom} ObjetUtilise={ObjetUtilise} />
+    <Cps1 Nom={Nom} ObjetUtilise={ObjetUtilise} />
+    <Cps1 Nom={Nom} ObjetUtilise={ObjetUtilise} />
+    <Cps1 Nom={Nom} ObjetUtilise={ObjetUtilise} />
+    <Cps1 Nom={Nom} ObjetUtilise={ObjetUtilise} />
+
   <header>
     <p class="nav">
       <span class="title">Répertoire des contacts</span>

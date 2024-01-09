@@ -15,7 +15,7 @@ const Diminuer = () => {
 
         <h2 id='composant1'>
             Bonjour les amis, voici un autre composant. Il a 
-        <button onClick={Ajouter} class='btn_cps1'>+</button>
+        <button onClick={Ajouter} class="btn_cps1" >+</button>
             {age} 
         <button onClick={Diminuer} class='btn_cps1'>-</button>
             
